@@ -18,3 +18,20 @@ This project is an end-to-end data analysis solution designed to extract critica
 - **Databases**: MS SQL Server
 - **Libraries**: Pandas, NumPy, SQLAlchemy
 - **Tools**: VS Code, Jupyter Notebook, Git
+
+
+## 🛠️ Installation & Setup
+
+### Prerequisites
+- Python 3.8+
+- MySQL 8.0+
+- PostgreSQL 13+
+- Kaggle API key
+
+## 📊 Key Analysis Areas
+- Revenue trends across branches and categories
+- Best-selling product categories
+- Sales performance by time, city, and payment method
+- Peak sales periods analysis
+- Customer buying patterns
+- Profit margin analysis
