@@ -95,15 +95,22 @@ most_popular_payment = "Credit Card"
 3. Sports and travel:         ★★★☆☆ (6.9/10)
 4. Electronic accessories:    ★★★☆☆ (5.9/10)
 
-🌅 SALES BY TIME SHIFTS:
+🌅 SALES BY TIME SHIFTS
+
 • Morning (5AM-12PM):    35% of sales
+
 • Afternoon (12PM-5PM):  40% of sales (Peak)
+
 • Evening (5PM-12AM):    20% of sales
+
 • Night (12AM-5AM):      5% of sales
 
-⭐ CUSTOMER SATISFACTION:
+⭐ CUSTOMER SATISFACTION
+
 • Average Rating: 5.83/10
+
 • 65% of ratings are 7 or higher
+
 • Food and beverages receive highest satisfaction
 
 # Actionable Business Recommendations
