@@ -66,18 +66,21 @@ This project provides comprehensive analysis of Walmart sales data to support da
 - Conditional aggregation 
 ```
 # Summary metrics
+
 total_transactions = 9969
 total_revenue = "$1.2M+"
 average_rating = 5.83
 top_category = "Food and beverages"
 most_popular_payment = "Credit Card"
 
-📱 PAYMENT METHOD BREAKDOWN:
+📱 PAYMENT METHOD BREAKDOWN
+
 • Credit Card:    42%  (Most popular)
 • E-wallet:       38%  
 • Cash:           20%  (Least popular)
 
-💰 TRANSACTION VOLUME BY PAYMENT:
+💰 TRANSACTION VOLUME BY PAYMENT
+
 • E-wallet:    3,881 transactions
 • Credit Card: 4,256 transactions  
 • Cash:        1,832 transactions
