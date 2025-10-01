@@ -76,13 +76,17 @@ most_popular_payment = "Credit Card"
 📱 PAYMENT METHOD BREAKDOWN
 
 • Credit Card:    42%  (Most popular)
+
 • E-wallet:       38%  
+
 • Cash:           20%  (Least popular)
 
 💰 TRANSACTION VOLUME BY PAYMENT
 
 • E-wallet:    3,881 transactions
+
 • Credit Card: 4,256 transactions  
+
 • Cash:        1,832 transactions
 
 🏆 TOP CATEGORIES BY RATING:
